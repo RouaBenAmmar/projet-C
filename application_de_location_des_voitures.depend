@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703845795 source:c:\users\rouaa\onedrive\desktop\c++ tests\application_de_location_des_voitures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
